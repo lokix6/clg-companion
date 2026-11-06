@@ -1,0 +1,11 @@
+# EduFlow
+
+> CollegeCompanion by EduFlow — a modern, minimal campus platform where students manage assignments, attendance, notes, timetables, and campus updates from one beautiful dashboard.
+
+EduFlow (product name: CollegeCompanion) is a SaaS workspace for college students. It unifies academic tools — assignments, attendance tracking, subject-wise notes, weekly timetables, results, and campus announcements — into a single, premium, minimal dashboard designed to feel like Notion, Linear, and Stripe.
+
+## Pages
+
+- [Home](/): Product overview, features, and how EduFlow works.
+- [About](/about): Mission, vision, values, team timeline, and FAQ.
+- [Contact](/contact): Email, phone, address, and contact form for the EduFlow team.
